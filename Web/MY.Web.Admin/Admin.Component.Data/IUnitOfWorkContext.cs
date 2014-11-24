@@ -32,7 +32,9 @@ namespace Admin.Component.Data
 
         void RegistreDelete<TEntity, TKey>(IQueryable<TEntity> entity) where TEntity : EntityBase<TKey>;
 
-        
+        void RegistreDeleteA<TEntity, TKey>(IQueryable<TEntity> entity) where TEntity : EntityBase<TKey>;
+
+
 
     }
 }

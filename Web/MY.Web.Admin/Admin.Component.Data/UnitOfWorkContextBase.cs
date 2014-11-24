@@ -61,6 +61,20 @@ namespace Admin.Component.Data
         {
             throw new NotImplementedException();
         }
+
+
+        public void RegistreDeleteA<TEntity, TKey>(IQueryable<TEntity> entity) where TEntity : Compoent.Tool.EntityBase<TKey>
+        {
+            throw new NotImplementedException();
+        }
+        public void RegistreDeleteB<TEntity, TKey>(IQueryable<TEntity> entity) where TEntity : Compoent.Tool.EntityBase<TKey>
+        {
+            throw new NotImplementedException();
+        }
+        public void RegistreDeleteC<TEntity, TKey>(IQueryable<TEntity> entity) where TEntity : Compoent.Tool.EntityBase<TKey>
+        {
+            throw new NotImplementedException();
+        }
     }
 }
 
