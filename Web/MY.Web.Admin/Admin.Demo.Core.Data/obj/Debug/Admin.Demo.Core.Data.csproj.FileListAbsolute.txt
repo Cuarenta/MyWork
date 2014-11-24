@@ -1,0 +1,10 @@
+C:\Users\凡雨\Desktop\Web\MY.Web.Admin\Admin.Demo.Core.Data\bin\Debug\Admin.Demo.Core.Data.dll
+C:\Users\凡雨\Desktop\Web\MY.Web.Admin\Admin.Demo.Core.Data\bin\Debug\Admin.Demo.Core.Data.pdb
+C:\Users\凡雨\Desktop\Web\MY.Web.Admin\Admin.Demo.Core.Data\obj\Debug\Admin.Demo.Core.Data.dll
+C:\Users\凡雨\Desktop\Web\MY.Web.Admin\Admin.Demo.Core.Data\obj\Debug\Admin.Demo.Core.Data.pdb
+C:\Users\凡雨\Desktop\Web\MY.Web.Admin\Admin.Demo.Core.Data\obj\Debug\Admin.Demo.Core.Data.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Web\MY.Web.Admin\Admin.Demo.Core.Data\bin\Debug\Admin.Demo.Core.Data.dll
+C:\Users\Administrator\Desktop\Web\MY.Web.Admin\Admin.Demo.Core.Data\bin\Debug\Admin.Demo.Core.Data.pdb
+C:\Users\Administrator\Desktop\Web\MY.Web.Admin\Admin.Demo.Core.Data\obj\Debug\Admin.Demo.Core.Data.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Web\MY.Web.Admin\Admin.Demo.Core.Data\obj\Debug\Admin.Demo.Core.Data.dll
+C:\Users\Administrator\Desktop\Web\MY.Web.Admin\Admin.Demo.Core.Data\obj\Debug\Admin.Demo.Core.Data.pdb
